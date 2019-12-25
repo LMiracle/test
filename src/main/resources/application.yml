@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: auth-server
+  datasource:
+    username: root
+    password: 295330167QWE
+    url: jdbc:mysql://127.0.0.1/test-reptile?useUnicode=yes&useSSL=false&serverTimezone=GMT%2B8
+    driver-class-name: com.mysql.cj.jdbc.Driver
